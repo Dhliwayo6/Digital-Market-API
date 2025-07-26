@@ -1,4 +1,4 @@
-package com.market.digital_market.model;
+package com.market.digital_market.model.business;
 
 import jakarta.persistence.*;
 

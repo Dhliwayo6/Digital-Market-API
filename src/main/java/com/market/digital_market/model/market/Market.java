@@ -1,5 +1,6 @@
-package com.market.digital_market.model;
+package com.market.digital_market.model.market;
 
+import com.market.digital_market.model.business.Business;
 import jakarta.persistence.*;
 
 import java.util.List;
